@@ -4,6 +4,7 @@ export const SignUpContainer = styled.div`
   display: flex;
   flex-direction: column;
   width: 380px;
+  text-transform: capitalize;
 `;
 
 export const SignUpTitle = styled.h2`
